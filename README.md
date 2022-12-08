@@ -5,7 +5,7 @@ https://github.com/Aadjou/blender-scripts/blob/master/bmesh-get-linked-faces.py
 
 Blender addon to apply a random material index to loose geometry by islands.
 
-![DEMO](images/MXL_DEMO.gif)<br/>
+![DEMO](images/MXL_Demo.gif)<br/>
 
 Known issues:
 Can take a second to update in the UI, unless a mouse event is registered.
